@@ -22,3 +22,11 @@
 * postponing v. 延期；延迟；展缓 n. 推迟
 * ahem int. (书写用语，表示引起注意或难以启齿时发出的咳嗽声)呃哼
 * cram v. 把…塞进；塞满；挤满；(为应考)临时死记硬背 n. 克拉姆；填塞；考试前临时硬记；填鸭式用功
+* trifle 琐事
+* brace 支撑
+  * brace yourself 做好准备
+* excel 擅长
+* chisel 凿
+* mallet 槌
+* veritable 名副其实
+* adversity 逆境
