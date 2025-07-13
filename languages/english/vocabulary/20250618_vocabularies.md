@@ -30,3 +30,10 @@
 * mallet 槌
 * veritable 名副其实
 * adversity 逆境
+* entail 蕴含着
+* arduous 艰苦的
+* calloused hands 长满老茧的手
+* enslave 奴役
+* dazzle 耀眼
+* consonance 和谐
+* torment 折磨
