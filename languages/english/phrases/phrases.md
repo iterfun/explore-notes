@@ -1,0 +1,2 @@
+- stumble upon 偶然发现（像是“撞上了好东西”）
+- Long story short 长话短说
